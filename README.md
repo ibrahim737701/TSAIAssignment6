@@ -2,7 +2,7 @@
 
 ## Formulas to remember:
 
-h1 = w1*i1 + w2*i2		
+h1 = w1*i1 + w2*i2 <br>	
 h2 = w3*i1 + w4*i2		
 a_h1 = σ(h1) = 1/(1 + exp(-h1))		
 a_h2 = σ(h2)		
